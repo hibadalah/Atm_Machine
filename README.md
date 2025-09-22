@@ -1,2 +1,3 @@
-# Atm_Machine
-This is a mini_atm machine project
+## Atm_Machine
+
+This project stimulate how an atm machine works
